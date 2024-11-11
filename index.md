@@ -51,7 +51,7 @@ The recipe search page allows students to explore a variety of meals and snacks,
 
 ![](images/recipe-page-2.png)
 
-![](images/recipe-page-3.png)
+![](images/recipe-page-4.png)
 
 ### Vendor Contributions
 
