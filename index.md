@@ -37,6 +37,8 @@ This section provides an overview of College Cooking's main features and how stu
 
 The landing page introduces new users to College Cooking, with easy navigation to sign up or sign in.
 
+![](images/landing-page-1.png)
+
 ### Recipe Search and Filters
 
 The recipe search page allows students to explore a variety of meals and snacks, with filters for dietary restrictions and ingredient availability. Each recipe page includes:
@@ -44,6 +46,12 @@ The recipe search page allows students to explore a variety of meals and snacks,
 - A list of ingredients, prices, and sources
 - Dietary tags (e.g., vegan, gluten-free)
 - Estimated preparation time and servings
+
+![](images/recipe-page-1.png)
+
+![](images/recipe-page-2.png)
+
+![](images/recipe-page-3.png)
 
 ### Vendor Contributions
 
