@@ -127,4 +127,4 @@ As of the time of writing, this screenshot shows that there is an ongoing task (
 
 ## Team
 
-College Cooking is designed, created and built by [Anaya Cole](https://anayaemily.github.io/), [Lindsey Clement]([//insert link](https://lindseynclement.github.io/)), [Christina Holthe](https://chrshol.github.io/) and [Kayla Young](https://kaylay04.github.io/).
+College Cooking is designed, created and built by [Anaya Cole](https://anayaemily.github.io/), [Lindsey Clement](https://lindseynclement.github.io/), [Christina Holthe](https://chrshol.github.io/) and [Kayla Young](https://kaylay04.github.io/).
